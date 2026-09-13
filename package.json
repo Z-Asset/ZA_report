@@ -1,5 +1,5 @@
 {
-  "name": "@zr/za-report",
+  "name": "@zasset/za-report",
   "version": "0.1.0",
   "description": "Z Research report stage — academic paper writing for asset pricing + ML/DL research. Ships one skill.",
   "type": "module",

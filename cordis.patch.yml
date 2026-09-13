@@ -5,4 +5,4 @@
 # Activated by: dsh plugin --profile <name> add @zr/za-report
 - insert:
     - id: za-report
-      name: '@zr/za-report'
+      name: '@zasset/za-report'
